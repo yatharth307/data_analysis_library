@@ -1,8 +1,4 @@
 # This is python libraries for Data Analysis.
-# Numpy
-# Pandas
-# Matplotlib
-# Seaborn
 
 # NumPy:
 
